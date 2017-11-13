@@ -344,7 +344,7 @@ public class CompanyListActivity extends ActionBarActivity
                 mCompaniesModel.createCompany("ASUSTek", "China", 1989, 0, "still active",
                         "ZenBook");
                 mCompaniesModel.createCompany("Nintendo PTD (Platform Technology Development)",
-                        "Japan", 2015, 2015, "still active", "Nintendo Switch");
+                        "Japan", 2015, 0, "still active", "Nintendo Switch");
             }
             mCompanies = mCompaniesModel.getAllCompanies();
 
